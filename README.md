@@ -26,6 +26,11 @@ This project focuses on building a spam email classifier using Logistic Regressi
 
 ## 📊 Confusion Matrix Explanation
 
+In this project:
+
+- `0` represents **Ham** (non-spam email)
+- `1` represents **Spam**
+
 The confusion matrix on the testing data is as follows:
 
 |                      | Predicted: Ham | Predicted: Spam |
