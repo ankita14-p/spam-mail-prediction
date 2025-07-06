@@ -7,6 +7,7 @@ This project focuses on building a spam email classifier using Logistic Regressi
 ## 📌 Features
 
 - Data preprocessing with null value handling
+- Label encoding to convert text labels into numerical form
 - Class imbalance addressed using resampling techniques
 - TF-IDF vectorization for feature extraction
 - Logistic Regression for classification
